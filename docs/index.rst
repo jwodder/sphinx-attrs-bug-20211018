@@ -5,3 +5,4 @@ sphinx-attrs — Documenting attrs classes with Sphinx
 ====================================================
 
 .. autoclass:: Foo
+.. autoclass:: Bar
